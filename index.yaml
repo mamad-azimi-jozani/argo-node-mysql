@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-31T16:33:20.076552919+03:30"
+    created: "2024-10-31T16:44:55.069677562+03:30"
     dependencies:
     - name: mysql
       repository: https://charts.bitnami.com/bitnami
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://mamad-azimi-jozani.github.io/argo-node-mysql/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-31T16:33:20.070500624+03:30"
+generated: "2024-10-31T16:44:55.064042662+03:30"
