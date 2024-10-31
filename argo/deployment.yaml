@@ -11,7 +11,7 @@ spec:
     path: mychart
   destination:
     server: https://kubernetes.default.svc 
-    namespace: default                     
+    namespace: argo-deploy                     
   syncPolicy:
     automated:
       prune: true                          
