@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-31T16:33:20.076552919+03:30"
+    dependencies:
+    - name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 11.1.19
+    description: A Helm chart for Kubernetes
+    digest: 61ef7f91b4e105c84a3b35ce0b7f920fadc7434ccfb2117ccf774f053b50d851
+    name: mychart
+    type: application
+    urls:
+    - https://mamad-azimi-jozani.github.io/argo-node-mysql/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-31T16:33:20.070500624+03:30"
